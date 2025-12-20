@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "compilerPath": "/usr/bin/g++",
+            "compileCommands": "${workspaceFolder}/build/Desktop-Debug/compile_commands.json",
+            "includePath": [
+                "${workspaceFolder}/build/Desktop-Debug/downman_autogen/include",
+                "/usr/include/qt6",
+                "/usr/include/qt6/QtWidgets",
+                "/usr/include/qt6/QtGui",
+                "/usr/include/qt6/QtCore"
+            ]
+        }
+    ],
+    "version": 4
+}
